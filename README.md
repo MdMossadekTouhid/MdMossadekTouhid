@@ -14,7 +14,7 @@
 
 📫 How to reach me touhid.cse68@gmail.com.
 
-👨‍💻 You can also check out my portfolio at touhid68.github.io
+👨‍💻 You can also check out my portfolio at touhid68@github.io.
 
 <!---
 MdMossadekTouhid/MdMossadekTouhid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
