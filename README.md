@@ -4,17 +4,17 @@
 
 👀 I’m interested in the field of - Computer Networking, Machine Learning etc.
 
-🔭 I’m currently working on - Codeforces problem solving.
+🔭 I’m currently working on - Problem solving.
 
 🌱 I’m currently learning - CCNA.
 
-💞️ I’m looking to collaborate on - ML projects.
+💞️ I’m looking to collaborate on - ML projects/Computer Networking Projects.
 
 ⚡ Fun fact : I love outdoor games & travelling.
 
 📫 How to reach me touhid.cse68@gmail.com.
 
-👨‍💻 You can also check out my portfolio at .....
+👨‍💻 You can also check out my portfolio at touhid68.github.io
 
 <!---
 MdMossadekTouhid/MdMossadekTouhid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
