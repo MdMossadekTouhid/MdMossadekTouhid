@@ -14,7 +14,7 @@
 
 📫 How to reach me touhid.cse68@gmail.com.
 
-👨‍💻 You can also check out my portfolio at [Touhid-Portfolio Website] (https://touhid68.github.io/).
+👨‍💻 You can also check out my portfolio at [Touhid-Portfolio Website](https://touhid68.github.io/).
 
 <!---
 touhid68/touhid68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
